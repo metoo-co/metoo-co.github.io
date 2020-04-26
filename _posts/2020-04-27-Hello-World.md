@@ -2,6 +2,7 @@
 layout: post
 title: Hello World
 author: Jeff
+image: '/images/2020-04-27.jpg'
 ---
 
 ```go
